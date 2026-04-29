@@ -1,8 +1,7 @@
 # QR Code Generator
 
-A minimalist, aesthetic static QR code generator that runs entirely in the browser. No backend required.
-
-![QR Generator Preview](preview.png)
+A minimalist static QR code generator that runs entirely in the browser. 
+Website live at  https://aqueel707.github.io/Static-QR-code-generator/
 
 ## Features
 
@@ -51,27 +50,7 @@ https://www.google.com/maps?q=48.8584,2.2945
 - **Vanilla JavaScript** – No frameworks, no dependencies except QRCode.js
 - **[QRCode.js](https://github.com/davidshimjs/qrcodejs)** – Client-side QR generation library (loaded via CDN)
 
-## Getting Started
 
-### Option 1: Direct Download
-
-Download `index.html` and open it in your browser. That's it.
-
-### Option 2: Clone & Serve Locally
-
-```bash
-git clone https://github.com/yourusername/qr-generator.git
-cd qr-generator
-# Optional: serve with a local server
-npx serve .
-```
-
-### Option 3: Deploy to GitHub Pages
-
-1. Fork this repository
-2. Go to **Settings** → **Pages**
-3. Select **Deploy from a branch** → `main` → `/ (root)`
-4. Your QR generator will be live at `https://yourusername.github.io/qr-generator/`
 
 ## Customization
 
